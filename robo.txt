@@ -1,0 +1,58 @@
+About ABB Robotics
+ABB Robotics is a leading supplier of industrial robots - also providing robot software, peripheral equipment, modular manufacturing cells, and service for tasks such as welding, handling, assembly, painting, and finishing, picking, packing, palletizing, and machine tending. Key markets include automotive, plastics, metal fabrication, foundry, electronics, machine tools, pharmaceutical, and food and beverage industries. A strong solutions focus helps manufacturers improve productivity, product quality, and worker safety. ABB has installed more than 200,000 robots worldwide.
+
+Both also offer traditional 6-axis industrial robots such as the ABB IRB 2600 and the KUKA KR 10 R1100. ABB robots are commonly utilized amongst automotive, plastics, foundry, electronics, pharmaceutical, and food industries. Kuka robots are also used in the electronics industry as well as the healthcare, energy, metal, and consumer goods industries. However, the vast majority of Kuka robots like the Kuka KR16, are used to automate automotive production lines. Kuka has even moved into more non-traditional industries such as the entertainment industry. Theme parks like Universal Studios have adopted Kuka’s passenger-carrying robot for some of their rides.
+Both Kuka and ABB offer a number of robot lines that can handle a variety of robotic applications. Some of the applications covered by these companies include material handling, machine loading and unloading, robotic palletizing, depalletizing, spot welding, automated welding, robotic assembly, and painting. ABB robots start at a payload range of 0.5 kg and go up to 800 kg in payload, while Kuka robots range from 2 kg to up to 1300 kg. Both offer robot models that are capable of different mounting options including wall, ceiling, floor, or inverted for an expanded work envelope. While ABB robots like the take their work range one step farther with being able to bend fully backward.
+
+
+
+b) 
+
+The new robot arm models of KUKA Robotics have KR C4 controller system which 
+is more powerful, flexible and it has many new features. The new teach pendant 
+Smart PAD has an ergonomic design and touch screen. Furthermore, they also 
+changed the HMI system (Human Machine Interface), which allows backward 
+compatibility to run program that designed on KR C2. The main core of our 
+research was integrating the robot arm into a simulation environment and 
+attaining control directly from it. There are many advantages of the concept 
+because if we can integrate a real robot arm into a simulation environment, we 
+can test the robot itself in various situation and analyze the robot behavior. If 
+we think that the simulation results are suitable, we can send the program to 
+the robot directly. Furthermore, it is a cost-effective method, because we 
+program the robot in a virtual environment, we do not need to use the robot 
+itself. The project had several problems, the first was to find an ideal simulation 
+environment. The professional industrial simulator programs are not available 
+and cannot be bought personally and we could not try any of them to decide 
+which is suitable for our project. The only strong point was some online 
+documents which are uploaded by developers about their simulation 
+environments. Finally, we chose the RoboDK simulation environment. The 
+program is well optimized, it means can be use on old computers. The 
+system is flexible because it provides many programming languages to design 
+the robot program like, C, C++, Python etc. Nevertheless, the developer of the 
+RoboDK after discussions sent us license to continue our research project.
+
+
+
+
+
+
+we can test the robot itself in various situations and analyze the robot's behavior. Therefore, their behavior can be explained with examples from the following instances
+
+ABB and KUKA Robots Take on the Dirty Jobs
+
+Dirty jobs are often unsanitary or hazardous work that can impact human health. Even though these jobs are unfavorable, someone has to do them. They include waste management, livestock nurturing, and mine exploration. The robot can take away the risk from humans and keep them safe from harm. Easy to work because using a robot arm
+
+Example -The need for sewer scrapers. When there is a problem with a sewer pipe, a crew shuts it off, digs to access the pipe, then fixes the infrastructure. But a robot can clean, map, and inspect pipes before the problems arise. Robots can also collect data like distance, pressure, temperature, and composition to get visibility of pollutants, infectious diseases, and drug use.
+
+ABB and KUKA Robots Take on the Dangerous Jobs
+
+Dangerous jobs put humans in harmful situations. To prevent the loss of human life, robots can be used. They are able to measure and detect variables beyond human perception. Robots can defuse bombs, traverse distant planets, and inspect unstable structures.
+
+Robots are being used to inspect bridges. A high degree of expertise, risk, and cost is associated with manned bridge inspections. Multirotor drones are able to completely remove humans from dangerous situations. They inspect hard-to-access areas with advanced speed and maneuverability.
+
+Robots Take on the Dull Jobs
+
+Dull, low-interaction, high-repetition jobs require very little human thought. They often include processes that have the sole objective of efficiency and output. Robots can work around the clock to streamline dull jobs. This saves businesses money and frees up human capital for tasks that have an element of variety and a need for critical thinking.
+
+
+Humans still have plenty to do if robots take these dirty, dangerous, and dull jobs. Technology advances have brought change throughout the history of the industry. Robots are no different.
